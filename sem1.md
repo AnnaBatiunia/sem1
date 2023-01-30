@@ -14,6 +14,8 @@
     *  git config -- global user.name 
     * git config -- global user.email "pochta@example.com"
 
+*Чтобы не прописывать **git add** каждый раз после **git commit**, прописываем команду: **git commit -am** "здесь ваше сообщение"*
+
 
 
 
