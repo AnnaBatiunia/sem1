@@ -8,6 +8,13 @@
 2. **Жирный**
 3. ~~Зачеркнутый~~
 
+# **Важно!!**
+В начале работы с программой необходимо представиться:
+* git config
+    *  git config -- global user.name 
+    * git config -- global user.email "pochta@example.com"
+
+
 
 
 
